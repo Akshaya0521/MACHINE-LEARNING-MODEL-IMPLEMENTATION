@@ -29,4 +29,5 @@ Predictions: The trained model is used to predict labels for the test set.
 Model Evaluation: The accuracy of the model is printed, along with a detailed classification report (precision, recall, F1-score). A confusion matrix is also generated and visualized using a heatmap to show how well the model predicted 'ham' and 'spam' messages.
 
 **Output of the Task**
+
 ![Image](https://github.com/user-attachments/assets/caec4aa5-bec7-4825-a572-8b5804840c80)
