@@ -12,6 +12,7 @@ BATCH DURATION: February 25th, 2025 to March 25th, 2025
 MENTOR NAME: NEELA SANTHOSH
 
 **Description**
+
 This Python code performs spam message classification using a Naive Bayes model with the following steps:
 
 Data Loading: It loads a dataset from a URL containing SMS messages labeled as "ham" (non-spam) and "spam". The dataset is read into a Pandas DataFrame.
